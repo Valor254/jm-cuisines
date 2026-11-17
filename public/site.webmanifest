@@ -1,0 +1,14 @@
+{
+  "name": "JM Cuisines — Private Chef Services",
+  "short_name": "JM Cuisines",
+  "description": "Elegant private dining at home for romantic dinners, family occasions and private celebrations.",
+  "icons": [
+    { "src": "/jm-cuisines-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ],
+  "theme_color": "#F7F3ED",
+  "background_color": "#F7F3ED",
+  "display": "standalone",
+  "start_url": "/jm-cuisines.html"
+}
